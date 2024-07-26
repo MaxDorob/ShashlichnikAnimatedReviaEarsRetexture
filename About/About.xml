@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+  <name>Animated Revia Ears - Retexture</name>
+  <author>Shashlichnik ;p (aka Шашлычник ;р)</author>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <packageId>shashlichnik.AnimatedReviaEarsRetexture</packageId>
+  <modDependencies>
+    <li>
+      <packageId>shashlichnik.AnimatedPawnsFramework</packageId>
+      <displayName>Shashlichnik Animated Pawns Framework</displayName>
+      <steamWorkshopUrl>steam://</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>FS.ReviaRaceBiotech</li>
+    <li>shashlichnik.AnimatedPawnsFramework</li>
+	  <li>shashlichnik.AnimatedReviaEars</li>
+  </loadAfter>
+  <url></url>
+  <description>
+    Cute animated Revia ears
+  </description>
+</ModMetaData>
