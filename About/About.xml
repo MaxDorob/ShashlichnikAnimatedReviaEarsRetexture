@@ -16,6 +16,7 @@
   </modDependencies>
   <loadAfter>
     <li>brrainz.harmony</li>
+		<li>FS.ReviaRace</li>
     <li>FS.ReviaRaceBiotech</li>
     <li>shashlichnik.AnimatedPawnsFramework</li>
 	  <li>shashlichnik.AnimatedReviaEars</li>
